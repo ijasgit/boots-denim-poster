@@ -1,0 +1,146 @@
+body {
+    margin: 0 auto;
+    width: 580px;
+}
+
+.content {
+    background-image: url(./images/img_files/bg_img2.jpg);
+    margin: 0px 0px 0px 0px;
+
+
+}
+.content span{
+background-image: linear-gradient(#4ff2bb, #008095);
+width: 378px;
+height: 14px;
+display: inline-block;
+}
+
+.left {
+    float: left;
+    padding: 12px 6px;
+    line-height: 18px;
+    margin: 1px 4px;
+}
+
+.right {
+    float: right;
+    padding: 6px 6px;
+    margin: 1px 4px;
+    background-color: yellow;
+}
+
+.p1 {
+    font-size: 8px;
+    /* left: 17px; */
+    /* float: right; */
+    /* right: 23px; */
+    text-align: center;
+    font-weight: bold;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+.nav {
+    clear: both;
+    font-size: 9px;
+    line-height: 3px;
+    text-align: center;
+
+}
+
+.nav span {
+    padding: 0px 10px;
+
+    display: inline-block;
+}
+
+.content {
+    font-size: 24px;
+    text-align: center;
+}
+
+.content {
+    padding: 20px 0px 20px 0px;
+    word-spacing: 8px;
+}
+
+/* .content .color-line {
+    margin: 0px 40px 0px 40px;
+    background-image: linear-gradient(#1a00ff, #00deff);
+    background-position: center;
+    height: 15px;
+} */
+
+.content .offer {
+    font-size: 82px;
+    padding: 6px 0px;
+
+    font-weight: bold;
+}
+
+.content .product {
+    font-size: 46px;
+    word-spacing: 28px;
+
+}
+
+/* .content #left-img {
+    float: left;
+}
+
+.content #right-img {
+    float: right;
+} */
+
+.content .img {
+    padding: 10px 0px;
+    padding: 26px 32px;
+
+}
+
+.content .go {
+    clear: both;
+    font-size: 46px;
+    text-align: center;
+    font-weight: bold;
+    color: #00bbb9;
+}
+
+footer .summary {
+    padding: 22px 48px;
+    text-align: center;
+}
+
+.summary div {
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 8px;
+
+}
+
+.summary p {
+    font-size: 10px;
+    padding: 6px 0px;
+}
+
+
+footer img {
+    width: 14px;
+    height: 14px;
+    padding: 0px 6px;
+}
+
+footer .social-media {
+    text-align: right;
+    border-bottom: solid;
+    border-top: solid;
+}
+
+footer .social-media p {
+    padding: 8px 0px;
+    font-size: 14px;
+
+}
