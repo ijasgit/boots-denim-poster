@@ -75,7 +75,7 @@ header::after {
 
 }
 
-.nav span {
+.nav a {
     padding: 0px 10px;
 
     display: inline-block;
