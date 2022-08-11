@@ -4,7 +4,7 @@ body {
     background-color: black;
 }
 
-/* header::after {
+header::after {
     content: "";
     clear: both;
     display: table;
@@ -20,21 +20,16 @@ body {
     font-size: 24px;
     text-align: center;
 
-} */
+}
 
 .content  #line {
     background-image: linear-gradient(#4ff2bb, #008095);
-    /* width: 378px; */
-    width: 400px;
-
+    width: 378px;
     height: 14px;
     display: inline-block;
 }
 .offer .star{
-    /* font-size: 12px; */
-    font-size: 10px;
-
-
+    font-size: 12px;
     font-weight: bold;
 }
 
@@ -54,9 +49,6 @@ body {
 
 .p1 {
     font-size: 8px;
-    /* left: 17px; */
-    /* float: right; */
-    /* right: 23px; */
     text-align: center;
     font-weight: bold;
 }
@@ -86,14 +78,6 @@ body {
 }
 
 
-
-/* .content .color-line {
-    margin: 0px 40px 0px 40px;
-    background-image: linear-gradient(#1a00ff, #00deff);
-    background-position: center;
-    height: 15px;
-} */
-
 .content .offer {
     font-size: 82px;
 
@@ -107,20 +91,10 @@ body {
 
 }
 
-/* .content #left-img {
-    float: left;
-}
-
-.content #right-img {
-    float: right;
-} */
 
 .content .img {
     margin-top: 35px;
     margin-bottom: 12px;
-
-    /* padding: 10px 0px;
-    padding: 26px 32px; */
 
 }
 
